@@ -38,7 +38,7 @@ Upon threat verification, the system executes a dual-layer defensive response:
 
 ## 🛠️ Hardware Schematics (Wiring)
 
-![BDSC Topology](../graph.png)
+![BDSC Topology](graph.png)
 
 *(Note: The HC-SR04 outputs a 5V signal on the ECHO pin. A simple 2:1 resistor voltage divider is used to drop this to 3.3V to protect the ESP32-C3's GPIO 6 pin).*
 
