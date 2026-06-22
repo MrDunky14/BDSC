@@ -1,0 +1,43 @@
+# Ignore third party libraries
+vendor/
+**/vendor/
+.github/
+.agents/
+.agent/
+ECC-repo/
+
+# Ignore documentation directories
+DOCS/
+**/docs/
+**/extra/
+**/logos/
+**/res/
+
+# Ignore all markdown, text documents, and license files
+*.md
+**/*.md
+*.txt
+**/*.txt
+LICENSE
+**/LICENSE
+NOTICE
+**/NOTICE
+CREDITS
+**/CREDITS
+**/CREDITS.md
+
+# Ignore all images and pdfs
+*.png
+**/*.png
+*.jpg
+**/*.jpg
+*.jpeg
+**/*.jpeg
+*.gif
+**/*.gif
+*.pdf
+**/*.pdf
+*.svg
+**/*.svg
+*.ico
+**/*.ico

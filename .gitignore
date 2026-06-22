@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.env
+bdsc_events.log
+breach_frame_*.jpg
+*.log
+
+# C++ / Arduino / ESP32
+build/
+*.bin
+*.elf
+*.o
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+.gemini/
+
+# AI Agent & Memory Frameworks
+.agent/
+.agents/
+skills/
+ECC-repo/
+Engram-Core-main/
+graphify-out/
